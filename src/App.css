@@ -1,0 +1,29 @@
+.background{
+width:93%;
+position: absolute;
+
+}
+.credit{
+  position: absolute;
+  transform: translateY(-100%);
+  top: 3%;
+  text-align: end;
+  width: 93%;
+  color: white;
+  background-color:rgba(0, 0, 0,.25); 
+  text-decoration: none;
+}
+.link{
+  color: white;
+}
+.texte{
+  position: absolute;
+top: 10%;
+text-align: justify;
+left: 5%;
+font-size: 26px;
+color: rgb(255, 255, 255);
+width: 93%;
+font-weight: bold;
+
+}
